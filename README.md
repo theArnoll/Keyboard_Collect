@@ -8,13 +8,13 @@ Change the number there to set how many hits on the esc key in a row to turn off
 
 
 
-##### �o�ӥ��������`����L����p�⾹�䴩���q�� QWERTY �t�m�M Dvorak �t�m�C
-##### ��������L�t�m����k�N�O�}�ҦW���uProgram_settings�v����r��� (.txt) ��A�R���Ĥ@���r�åΤp�g�^���J�A�Q�n���t�m�A���O�uqwerty�v�M�udvorak�v�C
-##### �p�G��󤺮e���O�H�W�o��ӡA�n��i��o�Ϳ��~�ιw�]��� QWERTY �t�m�C  
-##### ��h�]�w: �p��M�w�n���h�֤U esc ��~�����{��
-##### �b�ɮסuProgram_settings�v���ĤG�榳�@�ӼƦr�A�w�]�� 4�A�o�N���n�s����|�� esc ��~�|�������{���C
-##### ��墨�̪��Ʀr�w�]�w�n�� esc ��h�֦��~�������{���C
-**ĵ�i**: �ĤG��u�঳���q�̶i�쪺���ԧB�Ʀr�A�_�h�{���}�ҫ�|�ߨ�{�h�C  
+這個未完成的常用鍵盤按鍵計算器支援普通的 QWERTY 配置和 Dvorak 配置。  
+更改顯示鍵盤配置的方法就是開啟名為「Program_settings」的文字文件 (.txt) 後，刪除第一行文字並用小寫英文輸入你想要的配置，像是「qwerty」和「dvorak」。  
+如果文件內容不是以上這兩個，軟體可能發生錯誤或預設顯示 QWERTY 配置。  
+更多設定: 如何決定要按多少下 esc 鍵才關閉程式  
+在檔案「Program_settings」的第二行有一個數字，預設為 4，這代表要連續按四次 esc 鍵才會關閉此程式。  
+更改那裡的數字已設定要按 esc 鍵多少次才能關閉程式。  
+**警告**: 第二行只能有普通十進位的阿拉伯數字，否則程式開啟後會立刻閃退。  
 
 
 Program programmed in Taiwan by ArnoldLuca.
